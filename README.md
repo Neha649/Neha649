@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Neha.
 - 🌱 I'm a Computer Science student (graduating in July 2022).
 - 👀 I am also a self-taught watercolor artist.
-- 🌱 I’m currently learning Data science,Data structures & Algorithms and brushing up my basics.
+- 🌱 I’m currently learning Data structures & AlgorithmData science, Data science and brushing up my basics.
 - 💞️ I’m looking to collaborate on Data science projects.
 - 📫 Reach me at nehav0649@gmail.com 
 
